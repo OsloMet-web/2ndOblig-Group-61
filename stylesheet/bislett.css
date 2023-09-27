@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(226, 221, 221);
+    font-family: Georgia, serif;
+}
+img {
+    height: 70%;
+    width: 50%;
+    object-fit: contain;
+}
