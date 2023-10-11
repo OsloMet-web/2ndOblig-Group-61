@@ -14,13 +14,23 @@ img{
 
 .main-box{
     display: grid;
-    grid-template-rows: auto 25vw 25vw;
-    grid-template-columns: 25vw auto  ;
-    
+    grid-template-rows: auto auto 25vw;
+    grid-template-columns: 75vw auto;
+}
+
+.forstp{
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.andrep{
+    grid-column: 1;
+    grid-row: 3;
 }
 
 .header {
-    
+    grid-column: 1/2;
+    grid-row: 1;
 }
 
 
