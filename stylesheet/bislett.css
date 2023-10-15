@@ -52,3 +52,12 @@ footer {
 footer p {
     margin: 5px;
 }
+.forfatter p {
+    display: inline-block;
+  }
+  #akhan {
+    color: rgb(130, 61, 61);
+    font-weight: bold ;
+  }
+
+  
